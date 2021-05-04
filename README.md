@@ -1,1 +1,2 @@
-# geologist-of-C24
+# Geologist
+Geologist Project
